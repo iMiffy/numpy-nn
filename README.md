@@ -1,7 +1,7 @@
-## python version
+## Python version
 - python3
 
-## python package
+## Python package
 - wget
 - tensorflow
 - keras
